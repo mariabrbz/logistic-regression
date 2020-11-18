@@ -12,6 +12,6 @@ Jupyter notebooks for the three projects I implemented during the Neural network
 </p>
 
 <p>
-<img src="https://github.com/mariabrbz/neural-networks-deep-learning/blob/main/screenshots/model_res2.PNG" height="200">
-<img src="https://github.com/mariabrbz/neural-networks-deep-learning/blob/main/screenshots/model_res.PNG" height="200">
+<img src="https://github.com/mariabrbz/neural-networks-deep-learning/blob/main/screenshots/model_res2.PNG" height="240">
+<img src="https://github.com/mariabrbz/neural-networks-deep-learning/blob/main/screenshots/model_res.PNG" height="235">
 </p>
